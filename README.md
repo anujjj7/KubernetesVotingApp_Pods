@@ -1,2 +1,2 @@
 # KubernetesVotingApp_Pods
-Kubernetes Voting app porject using simple pods only.
+Kubernetes Voting app project using simple pods only.
